@@ -53,8 +53,8 @@ Presentations
 
 ### [Presentation 1 Title](/pdf/sample_presentation.pdf)
 
-- **Class:** 
-- **Grade:**
+- **Class:** CSCI 315
+- **Grade:** 98
 
 
 ### [Presentation 2 Title](/pdf/sample_presentation.pdf)
