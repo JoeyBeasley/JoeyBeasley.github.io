@@ -31,7 +31,7 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Ethics Paper](/pdf/sample_presentation.pdf)
+### [Ethics Paper](/pdf/Ethics Sept 2024.pdf)
 
 -   **Class:** CSCI 315
 -   **Grade:** 98
@@ -51,13 +51,13 @@ Ethics Papers
 Presentations
 -------------
 
-### [The Sony Hack of 2024](/pdf/sample_presentation.pdf)
+### [The Sony Hack of 2024](/pdf/Sony Hack of 2024.pdf)
 
 - **Class:** CSCI 405
 - **Grade:** A
 
 
-### [Now This is Leak Cinema](/pdf/sample_presentation.pdf)
+### [Now This is Leak Cinema](/pdf/Now This is Leak Cinema.pdf)
 
 - **Class:** CSCI 405
 - **Grade:** A
