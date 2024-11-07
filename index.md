@@ -31,17 +31,17 @@ Programming Projects
 Ethics Papers
 -------------
 
-### Ethics 315
+### [Ethic Paper | CSCI 315](EthicsPaper1)
 
 -   **Class:** CSCI 315
 -   **Grade:** 98
 
-### Ethics 325
+### [Ethic Paper | CSCI 325](EthicsPaper2)
 
 -   **Class:** CSCI 325
 -   **Grade:** A
 
-### Copyrights and Wrongs
+### [Copyrights and Wrongs | CSCI 305](EthicsPaper3)
 
 -   **Class:** 305 
 -   **Grade:** A
