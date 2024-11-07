@@ -1,6 +1,6 @@
 [Back to Portfolio](./)
 
-Lab 14 Binary Search Trees (Part 1)
+Project 2: Basic HTML Parsing and Crawling
 ===============
 
 -   **Class:** 
@@ -11,7 +11,8 @@ Lab 14 Binary Search Trees (Part 1)
 
 ## Project description
 
-This lab begins our construction of Binary Trees. The basics are essential before proceeding to further funcionality of trees. Please implement the following methods of the BinaryTree class.
+
+
 
 ## How to compile and run the program
 
