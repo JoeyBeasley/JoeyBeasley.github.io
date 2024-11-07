@@ -31,15 +31,15 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Ethics Paper](/pdf/Ethics Sept 2024.pdf)
+### Ethics 315
 
 -   **Class:** CSCI 315
 -   **Grade:** 98
 
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
+### Ethics 325
 
--   **Class:** 
--   **Grade:**
+-   **Class:** CSCI 325
+-   **Grade:** A
 
 ### [Paper 3 Title](/pdf/sample_presentation.pdf)
 
