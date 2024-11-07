@@ -27,13 +27,13 @@ make run
 
 Make run would run the code. Make example-test runs the example test file.
 
-![screenshot](images/dummy_thumbnail.jpg)  
+![screenshot](images/project1.jpg)  
 Fig 1. The launch screen
 
-![screenshot](images/dummy_thumbnail.jpg)  
+![screenshot](images/project1run.jpg)  
 Fig 2. Example output after input is processed.
 
-![screenshot](images/dummy_thumbnail.jpg)  
+![screenshot](images/project1error.jpg)  
 Fig 3. Feedback when an error occurs.
 
 ## 3. Additional Considerations
