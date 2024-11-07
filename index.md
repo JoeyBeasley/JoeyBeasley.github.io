@@ -51,13 +51,13 @@ Ethics Papers
 Presentations
 -------------
 
-### [The Sony Hack of 2024](/pdf/Sony Hack of 2024.pdf)
+### [The Sony Hack of 2024](pdf/SonyHackof2014.pdf)
 
 - **Class:** CSCI 405
 - **Grade:** A
 
 
-### [Now This is Leak Cinema](/pdf/Now This is Leak Cinema.pdf)
+### [Now This is Leak Cinema](pdf/NowThisisLeakCinema.pdf)
 
 - **Class:** CSCI 405
 - **Grade:** A
