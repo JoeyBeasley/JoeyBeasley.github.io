@@ -41,10 +41,10 @@ Ethics Papers
 -   **Class:** CSCI 325
 -   **Grade:** A
 
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
+### Copyrights and Wrongs
 
--   **Class:** 
--   **Grade:**
+-   **Class:** 305 
+-   **Grade:** A
 
 ---
 
