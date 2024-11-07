@@ -1,5 +1,7 @@
 Joey Beasley
-Prof. Hayes
+
+CSCI 315
+
 9/16/24
 
 Ethics Paper
