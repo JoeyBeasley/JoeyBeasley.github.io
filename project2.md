@@ -1,9 +1,9 @@
 [Back to Portfolio](./)
 
-Lab 14 Binary Search Trees (Part 1)
+Chess Team Project
 ===============
 
--   **Class:** 
+-   **Class:** CSCI 325
 -   **Grade:** 
 -   **Language(s):** 
 -   **Source Code Repository:** [features/mastering-markdown]([https://guides.github.com/features/mastering-markdown/](https://github.com/JoeyBeasley/JoeyFall2024/blob/master/lab14/lab14.pdf))  
@@ -11,7 +11,7 @@ Lab 14 Binary Search Trees (Part 1)
 
 ## Project description
 
-This lab begins our construction of Binary Trees. The basics are essential before proceeding to further funcionality of trees. Please implement the following methods of the BinaryTree class.
+
 
 ## How to compile and run the program
 
