@@ -7,7 +7,7 @@ Project 2: Basic HTML Parsing and Crawling
 -   **Grade:** 73
 -   **Language(s):** C++
 -   **Source Code Repository:** [features/mastering-markdown]([https://github.com/JoeyBeasley/PortfolioProject1](https://github.com/JoeyBeasley/JoeyFall2024/blob/master/lab14/lab14.pdf))  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+    (Please [email me](mailto:JWBeasley@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
