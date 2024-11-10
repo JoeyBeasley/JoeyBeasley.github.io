@@ -6,7 +6,7 @@ Project 3: Pedigree
 -   **Class:** CSCI 495
 -   **Grade:** A
 -   **Language(s):** Python
--   **Source Code Repository:** [features/mastering-markdown]([https://guides.github.com/features/mastering-markdown/](https://github.com/JoeyBeasley/JoeyFall2024/blob/master/lab14/lab14.pdf))  
+-   **Source Code Repository:** [features/mastering-markdown]([https://guides.github.com/features/mastering-markdown/]
     (Please [email me](mailto:JWBeasley@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
