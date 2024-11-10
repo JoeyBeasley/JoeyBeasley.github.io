@@ -6,7 +6,7 @@ Chess Team Project
 -   **Class:** CSCI 325
 -   **Grade:** 
 -   **Language(s):** 
--   **Source Code Repository:** [features/mastering-markdown]([https://github.com/csu-cs/CSCI325-Spring-23--Chess](https://github.com/JoeyBeasley/JoeyFall2024/blob/master/lab14/lab14.pdf))  
+-   **Source Code Repository:** [features/mastering-markdown]([https://github.com/csu-cs/CSCI325-Spring-23--Chess])
     (Please [email me](mailto:JWBeasley@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
