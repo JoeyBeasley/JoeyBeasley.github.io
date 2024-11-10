@@ -1,6 +1,6 @@
 [Back to Portfolio](./)
 
-Chess Team Project
+Project 2: Chess Team Project
 ===============
 
 -   **Class:** CSCI 325
