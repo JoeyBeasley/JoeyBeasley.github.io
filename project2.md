@@ -11,16 +11,15 @@ Chess Team Project
 
 ## Project description
 
-
+My team and I compiled a two player chess game through Java that runs in NetBeans. The game displays a Battleship-styled grid with letters representing the pieces (K for King, Q for Queen) and asks each player what space they want to move and what space they want to move the piece there to. It will ask if it the other player is in checkmate before it is the other player's turn.
 
 ## How to compile and run the program
 
 How to compile (if applicable) and run the project.
 
-```bash
-cd ./project
-python setup.py
-```
+Open the folder in NetBeans. With the ChessMain file selected, click the green play button. The chessboard will be displayed and you will be prompted to enter the space you want to move (ie, E2).
+
+
 
 If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
 
