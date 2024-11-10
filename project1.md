@@ -1,6 +1,6 @@
 [Back to Portfolio](./)
 
-Basic HTML Parsing and Crawling
+Project 1: Basic HTML Parsing and Crawling
 ===============
 
 -   **Class:** CSCI 315
