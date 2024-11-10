@@ -7,7 +7,7 @@ Project 3: Pedigree
 -   **Grade:** A
 -   **Language(s):** Python
 -   **Source Code Repository:** [features/mastering-markdown]([https://guides.github.com/features/mastering-markdown/](https://github.com/JoeyBeasley/JoeyFall2024/blob/master/lab14/lab14.pdf))  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+    (Please [email me](mailto:JWBeasley@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
