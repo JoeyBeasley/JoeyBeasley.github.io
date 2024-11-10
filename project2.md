@@ -27,13 +27,14 @@ If the programming language does not require compilation, the update the heading
 
 Make run would run the code. Make example-test runs the example test file. Make simple-test runs the simple test file from src.
 
-![screenshot](images/dummy_thumbnail.jpg)  
+![screenshot](images/chessimage.png)  
 Fig 1. The launch screen
 
-![screenshot](images/dummy_thumbnail.jpg)  
+![screenshot](images/chessimage2.png)  
+![screenshot](images/chessimage3.png) 
 Fig 2. Example output after input is processed.
 
-![screenshot](images/dummy_thumbnail.jpg)  
+![screenshot](images/chessimageerror.png)  
 Fig 3. Feedback when an error occurs.
 
 ## 3. Additional Considerations
