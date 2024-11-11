@@ -28,14 +28,14 @@ make run
 
 Make run would run the code. Make example-test runs the example test file.
 
-![screenshot](images/project1.png)  
+![screenshot](images/userinterface.png)  
 Fig 1. The launch screen
 
-![screenshot](images/project1run.png)  
-Fig 2. Example output after input is processed.
+![screenshot](images/userinterface2.png)  
+Fig 2. The log-in page.
 
-![screenshot](images/project1error.png)  
-Fig 3. Feedback when an error occurs.
+![screenshot](images/userinterface3.png)  
+Fig 3. After logging in successfully
 
 ## 3. Additional Considerations
 
