@@ -19,14 +19,10 @@ entered and whether or not their email was already listed.
 
 How to compile (if applicable) and run the project.
 
-```
-make run
-```
 
 
 ## UI Design
 
-Make run would run the code. Make example-test runs the example test file.
 
 ![screenshot](images/userinterface.png)  
 Fig 1. The launch screen
