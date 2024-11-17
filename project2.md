@@ -4,7 +4,7 @@ Project 2: Chess Team Project
 ===============
 
 -   **Class:** CSCI 325
--   **Grade:** 
+-   **Grade:** 80
 -   **Language(s):** XML, Java
 -   **Source Code Repository:** [features/mastering-markdown]([https://github.com/csu-cs/CSCI325-Spring-23--Chess])
     (Please [email me](mailto:JWBeasley@csustudent.net?subject=GitHub%20Access) to request access.)
