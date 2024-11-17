@@ -37,8 +37,6 @@ Fig 2. Example output after input is processed.
 ![screenshot](images/project1error.png)  
 Fig 3. Feedback when an error occurs.
 
-## 3. Additional Considerations
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 [Back to Portfolio](./)
