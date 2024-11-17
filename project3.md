@@ -24,10 +24,10 @@ Download the zip file and then open the HL7 Reorientation Program file. From the
 
 Make run would run the code. Make example-test runs the example test file.
 
-![screenshot](images/pedigree1.png)  
+![screenshot](images/predigree1.png)  
 Fig 1. The launch screen
 
-![screenshot](images/pedigree2.png)  
+![screenshot](images/predigree2.png)  
 Fig 2. Opening a file
 
 ![screenshot](images/pedigree3.png)  
