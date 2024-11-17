@@ -19,23 +19,26 @@ This was made to check and track the medical records of a family. As a team, we 
 
 How to compile (if applicable) and run the project.
 
-```
-make run
-```
-
-
+Download the zip file and then open the HL7 Reorientation Program file. From there, open one of the tree files and select the family member from the list. Once selected, enter their info.
 ## UI Design
 
 Make run would run the code. Make example-test runs the example test file.
 
-![screenshot](images/project1.png)  
+![screenshot](images/pedigree1.png)  
 Fig 1. The launch screen
 
-![screenshot](images/project1run.png)  
-Fig 2. Example output after input is processed.
+![screenshot](images/pedigree2.png)  
+Fig 2. Opening a file
 
-![screenshot](images/project1error.png)  
-Fig 3. Feedback when an error occurs.
+![screenshot](images/pedigree3.png)  
+Fig 3. Selecting a member
+
+![screenshot](images/pedigree6.png)  
+Fig 4. Entering a family member's info
+
+
+![screenshot](images/pedigree5.png)  
+Fig 5. Feedback when an error occurs.
 
 
 
