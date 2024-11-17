@@ -4,7 +4,7 @@ Project 3: Pedigree
 ===============
 
 -   **Class:** CSCI 495
--   **Grade:** A
+-   **Grade:** 80
 -   **Language(s):** Python
 -   **Source Code Repository:** [features/mastering-markdown]([https://guides.github.com/features/mastering-markdown/]
     (Please [email me](mailto:JWBeasley@csustudent.net?subject=GitHub%20Access) to request access.)
