@@ -6,7 +6,7 @@ Project 3: Pedigree
 -   **Class:** CSCI 495
 -   **Grade:** 80
 -   **Language(s):** Python
--   **Source Code Repository:** [features/mastering-markdown]([https://guides.github.com/features/mastering-markdown/]
+-   **Source Code Repository:** [features/mastering-markdown](https://github.com/JoeyBeasley/Pedigree_Recreation)
     (Please [email me](mailto:JWBeasley@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
