@@ -6,7 +6,7 @@ Project 1: Basic HTML Parsing and Crawling
 -   **Class:** CSCI 315
 -   **Grade:** 73
 -   **Language(s):** C++
--   **Source Code Repository:** [features/mastering-markdown]([[https://github.com/JoeyBeasley/PortfolioProject1](https://github.com/JoeyBeasley/PortfolioProject1)])  
+-   **Source Code Repository:** [features/mastering-markdown](https://github.com/JoeyBeasley/PortfolioProject1)  
     (Please [email me](mailto:JWBeasley@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
