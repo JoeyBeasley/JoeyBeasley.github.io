@@ -6,7 +6,7 @@ Project 4: Ruby on Rails
 -   **Class:** CSCI 334
 -   **Grade:** A
 -   **Language(s):** Ruby on Rails
--   **Source Code Repository:** [features/mastering-markdown]([https://guides.github.com/features/mastering-markdown/]
+-   **Source Code Repository:** [features/mastering-markdown](https://github.com/User-interface-Programming-Class/UserInterfaceFinal)
     (Please [email me](mailto:JWBeasley@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
