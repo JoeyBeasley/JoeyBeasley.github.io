@@ -11,7 +11,7 @@ Senior Project
 
 ## Project description
 
-project2/project2.pdf
+TestPlanBeasley.pdf
 
 
 ## How to compile and run the program
