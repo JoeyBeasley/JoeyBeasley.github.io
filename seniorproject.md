@@ -27,7 +27,7 @@ make run
 
 Make run would run the code. Make example-test runs the example test file.
 
-![screenshot](images/project1.png)  
+![screenshot](images/TitleSenior.png)  
 Fig 1. The launch screen
 
 ![screenshot](images/project1run.png)  
