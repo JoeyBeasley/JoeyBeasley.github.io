@@ -18,9 +18,7 @@ TestPlanBeasley.pdf
 
 How to compile (if applicable) and run the project.
 
-```
-make run
-```
+Open the file in Renpy and select "Launch Project"
 
 
 ## UI Design
@@ -30,11 +28,14 @@ Make run would run the code. Make example-test runs the example test file.
 ![screenshot](images/TitleSenior.png)  
 Fig 1. The launch screen
 
-![screenshot](images/project1run.png)  
-Fig 2. Example output after input is processed.
+![screenshot](images/promptmechanic.jpeg)  
+Fig 2. EOffering if you want the mechanic to ask a question, or for you to ask her a question. This comes in handy later when a shapeshifting alien poses as her.
 
-![screenshot](images/project1error.png)  
-Fig 3. Feedback when an error occurs.
+![screenshot](images/shotprompt.jpeg)  
+Fig 3. Players must press the spacebar to shoot an alien before it attacks their team.
+
+![screenshot](images/toolquiz.jpeg)  
+Fig 4. The correct tool must be selected from a prompt describing what needs to be fixed on the ship.
 
 ## 3. Additional Considerations
 
