@@ -7,7 +7,7 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:jwbeasley@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [Senior Project | CSCI 499](seniorproject)
+### [Senior Project: Spaced Out | CSCI 499](seniorproject)
 
 ![Senior Project Thumbnail Name](images/TitleSenior.png)
 
