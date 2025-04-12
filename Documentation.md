@@ -17,7 +17,7 @@
 
 ## Statement of Purpose (with the Problem Statement)
 
-In most visual novel type games, players do not receive any consequence for failure, being allowed to correct themselves or go back to a previous point to fix their mistakes. Adding consequences to somebody's failures in a game not only adds to the challenge, but also makes any error all the more impactful. My idea is to make a game where everyone's survival is dependent on you. This will result in a game that is more impactful on players by giving them perosnal connections to characters that may not survive if things go wrong.
+I want to make something that blends visual art with programming. In most visual novel type games, players do not receive any consequence for failure, being allowed to correct themselves or go back to a previous point to fix their mistakes. Adding consequences to somebody's failures in a game not only adds to the challenge, but also makes any error all the more impactful. My idea is to make a game where everyone's survival is dependent on you. This will result in a game that is more impactful on players by giving them perosnal connections to characters that may not survive if things go wrong.
 
 
 
