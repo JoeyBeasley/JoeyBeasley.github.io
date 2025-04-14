@@ -31,7 +31,7 @@ Fig 1. The launch screen
 ![screenshot](images/promptmechanic.jpeg)  
 Fig 2. EOffering if you want the mechanic to ask a question, or for you to ask her a question. This comes in handy later when a shapeshifting alien poses as her.
 
-![screenshot](images/shotprompt.jpeg)  
+![screenshot](images/shootprompt.jpeg)  
 Fig 3. Players must press the spacebar to shoot an alien before it attacks their team.
 
 ![screenshot](images/toolquiz.jpeg)  
