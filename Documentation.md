@@ -55,7 +55,7 @@ https://github.com/JoeyBeasley/JoeySP
 ## Test Plan
 
 
-| \#  | OBJECTIVE | INPUT | EXPECTED RESULTS | TEST DELIVERABLEs |
+| \#  | OBJECTIVE | INPUT | EXPECTED RESULTS | TEST DELIVERABLES |
 | --- | --------- | ----- | ---------------- | ----------------- |
 | 1   |  Should Display Game and characters         |       |  Should be displayed      | Everything appears    |
 | 2   |  Should Count how many are found and let me end based on if the count is three |       |  Should only access last part is found = 3 | It accesses the last part once the found count is 3, but does not end the game yet   |
