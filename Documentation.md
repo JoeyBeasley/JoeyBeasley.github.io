@@ -55,7 +55,7 @@ https://github.com/JoeyBeasley/JoeySP
 ## Test Plan
 
 
-| \#  | OBJECTIVE | INPUT | EXPECTED RESULTS | TEST DELIVERABLES |
+| \#  | OBJECTIVE | INPUT | EXPECTED RESULTS | TEST DELIVERABLEs |
 | --- | --------- | ----- | ---------------- | ----------------- |
 | 1   |  Should Display Game and characters         |       |  Should be displayed      | Everything appears    |
 | 2   |  Should Count how many are found and let me end based on if the count is three |       |  Should only access last part is found = 3 | It accesses the last part once the found count is 3, but does not end the game yet   |
@@ -72,7 +72,7 @@ https://github.com/JoeyBeasley/JoeySP
 ## Test Results
 
 
-| \#  | Expected | Results | 
+| \#  | EXPECTED | RESULTS | 
 | --- |--------- | ------- |
 | 1   |  When the code says show/hide a character, they should appear    |   The characters appear when prompted and hide for another character    | 
 | 2   |  The leave command should only work if both parts are found   |   The booleans and if statements work and I cannot leave if I don’t have all the parts yet    | 
