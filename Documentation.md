@@ -12,9 +12,9 @@
 
 - [Test Results](#test-results)
 
-- [Challenges Overcome](#challenges)
-- [Future Enhancements](#future)
-- [Defense Presentation Slides](#slides)
+- [Challenges Overcome](#challenges-overcome)
+- [Future Enhancements](#future-enhancements)
+- [Defense Presentation Slides](#defense-presentation-slides)
 
 ## Statement of Purpose (with the Problem Statement)
 
@@ -90,7 +90,7 @@ https://github.com/JoeyBeasley/JoeySP
 ## Challenges Overcome
 When the game was suppossed to end with a return, the previous event restarted instead. I did some research and found the break command, "$ renpy.full_restart()", which stopped the game when I wanted it to. Finding minigame ideas was a challenge, as I needed something simple, something that would not take long to program. Luckily, there is a long list of games that can be coded into Renpy, which I utilized. At one point, the images tool still had their checkerboarded backgrounds. I removed them in an editor, but the images were way too big when loaded into the game, making the fixing minigame impossible to beat. I stopped the game and one by one, made smaller duplicates of the images and replaced the previous ones with those.
 
-## Defense Presentation Slide
+## Defense Presentation Slides
 
 <image src="/images/Senior Project Presentation.pdf"/>
 
