@@ -71,6 +71,8 @@ https://github.com/JoeyBeasley/JoeySP
 
 
 ## Test Results
+
+
 | \#  | Expected | Results | 
 | --- |--------- | ------- |
 | 1   |  When the code says show/hide a character, they should appear    |   The characters appear when prompted and hide for another character    | 
