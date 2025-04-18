@@ -100,7 +100,7 @@ When the game was suppossed to end with a return, the previous event restarted i
 ## Future Enhancements
 I hope to update more of the character designs (such as the mechanic's finger being on the wrong side of her hand) and make them look more refined, such as adding shading and more complex shapes. I would also like to make the game a bit longer and add more challenges, such as maybe a fourth teammate or another day on the planet. 
 
-[![Watch the video](https://img.youtube.com/vi/nTQUwghvy5Q/default.jpg)](https://youtu.be/nTQUwghvy5Q)
+[![Watch the video](https://img.freepik.com/free-vector/musical-pentagram-sound-waves-notes-blue-neon-style_1017-36831.jpg?semt=ais_country_boost&w=740)](https://youtube.com/playlist?list=PL6hq399lqSmLVe-cCAnpuFf0M4nkqCGnM&si=Hb1k9TL_TCDkeuRU)
 
 ### [Senior Project: Spaced Out | CSCI 499](seniorproject)
  
